@@ -8,12 +8,12 @@ Neste curso iremos abordar conhecimento sobre HTML, CSS e JavaScript.
 </p>
 
 <p align="center">
-	<a href="#Branch por aula">Branch por aula</a> •
+	<a href="#Aulas">Aulas</a> •
 	<a href="#Autor">Autor</a> •
 	<a href="#Licença">Licença</a>
 </p>
 
-### Branch por aula
+### Aulas
 
 * [Aula1 - O que é HTML e CSS](https://github.com/gpd38/cursoNutrorHtmlCssJavascriptSemComplicacao/blob/main/codigo/aula1.md)
 * [Aula2 - Principais tags](https://github.com/gpd38/cursoNutrorHtmlCssJavascriptSemComplicacao/blob/main/codigo/aula2.md)
