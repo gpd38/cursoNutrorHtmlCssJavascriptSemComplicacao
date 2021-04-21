@@ -68,6 +68,6 @@ Para identificar elementos que utilizam o cs:
 
 ### Game
 
-[Primeiro Lugar] - Bruno Curintian
-[Segundo Lugar] - GPD
-[Terceiro Lugar] - Leila
+- [Primeiro Lugar] - Bruno Curintian
+- [Segundo Lugar] - GPD
+- [Terceiro Lugar] - Leila
