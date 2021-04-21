@@ -8,9 +8,19 @@ Neste curso iremos abordar conhecimento sobre HTML, CSS e JavaScript.
 </p>
 
 <p align="center">
+	<a href="#Branch por aula">Branch por aula</a> •
 	<a href="#Autor">Autor</a> •
 	<a href="#Licença">Licença</a>
 </p>
+
+### Branch por aula
+
+* Aula1 = [branchA]() - O que é HTML e CSS
+* Aula2 = [branchB]() - Principais tags
+* Aula3 = [branchC]() - Formulários
+* Aula4 = [barnchD]() - 
+* Aula5 = [barnchE]() - 
+* Aula6 = [barnchF]() - 
 
 ### Autor
 
