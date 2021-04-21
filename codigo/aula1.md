@@ -1,6 +1,8 @@
-HTML é linguagem de marcação onde utilizamos tags para criar paginas que serão visualizadas na internet.
+#HTML 
 
-###Algumas das principais tags do html são:
+Html é linguagem de marcação onde utilizamos tags para criar paginas que serão visualizadas na internet.
+
+### Algumas das principais tags do html são:
 
  - html
  - head
@@ -21,7 +23,7 @@ HTML é linguagem de marcação onde utilizamos tags para criar paginas que ser�
  - header, section, nav, footer
  - b, br
 
-###Principais atributos dos elementos
+### Principais atributos dos elementos
  
  - id
  - class
@@ -39,7 +41,7 @@ HTML é linguagem de marcação onde utilizamos tags para criar paginas que ser�
 
 CSS é uma folha de estilo, ou seja, ele é responsavel pelo visual do site.
 
-###Como identificar elementos no CSS
+### Como identificar elementos no CSS
 
 Para identificar elementos que utilizam o cs:
  - por id, deve iniciar com o caracter "#"
@@ -49,7 +51,7 @@ Para identificar elementos que utilizam o cs:
  - por elemento não existe nada antes do nome
  	Ex: chronos{}
 
-###Principais propriedades do CSS
+### Principais propriedades do CSS
 
  - color
  - font-Family, font-size, font-weight, font-style
@@ -64,7 +66,7 @@ Para identificar elementos que utilizam o cs:
 
  [Link para obter mais informações sobre as propriedades do CSS](https://www.hiperbytes.com.br/folhas-de-estilo-css-resumo-das-principais-propriedades/)
 
-###Game
+### Game
 
 [Primeiro Lugar] - Bruno Curintian
 [Segundo Lugar] - GPD
