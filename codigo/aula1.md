@@ -1,3 +1,5 @@
+# Aula1
+
 HTML é linguagem de marcação onde utilizamos tags para criar paginas que serão visualizadas na internet.
 
 ###Algumas das principais tags do html são:
@@ -66,6 +68,6 @@ Para identificar elementos que utilizam o cs:
 
 ###Game
 
-* [Primeiro Lugar] - Bruno Curintian
-* [Segundo Lugar] - GPD
-* [Terceiro Lugar] - Leila
+- [Primeiro Lugar] - Bruno Curintian
+- [Segundo Lugar] - GPD
+- [Terceiro Lugar] - Leila
