@@ -63,3 +63,9 @@ Para identificar elementos que utilizam o cs:
  - float
 
  [Link para obter mais informações sobre as propriedades do CSS](https://www.hiperbytes.com.br/folhas-de-estilo-css-resumo-das-principais-propriedades/)
+
+###Game
+
+[Primeiro Lugar] - Bruno Curintian
+[Segundo Lugar] - GPD
+[Terceiro Lugar] - Leila
