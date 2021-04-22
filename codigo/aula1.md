@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 # Aula1
-
-HTML é linguagem de marcação onde utilizamos tags para criar paginas que serão visualizadas na internet.
-=======
-# HTML 
->>>>>>> c9ec0e6a33f58c1a738d79c4bded032f53670a2a
 
 Html é linguagem de marcação onde utilizamos tags para criar paginas que serão visualizadas na internet.
 
@@ -76,8 +70,4 @@ Para identificar elementos que utilizam o cs:
 
 - [Primeiro Lugar] - Bruno Curintian
 - [Segundo Lugar] - GPD
-<<<<<<< HEAD
 - [Terceiro Lugar] - Leila
-=======
-- [Terceiro Lugar] - Leila
->>>>>>> c9ec0e6a33f58c1a738d79c4bded032f53670a2a
