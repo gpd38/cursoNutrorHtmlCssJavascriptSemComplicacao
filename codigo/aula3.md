@@ -121,7 +121,7 @@
 	</body>
 </html>
 
-###Game
+### Game
 
 - [Primeiro Lugar] - MS
 - [Segundo Lugar] - Paula
