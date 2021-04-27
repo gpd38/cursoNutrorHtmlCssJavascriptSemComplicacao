@@ -79,7 +79,7 @@ No head normalmente utilizamos os dados como style, javascript e css seja descri
 	</body>
 </html>
 
-###Game
+### Game
 
 - [Primeiro Lugar] - Maurício
 - [Segundo Lugar] - Ana Bim
