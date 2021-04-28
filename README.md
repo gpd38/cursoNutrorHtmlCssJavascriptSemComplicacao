@@ -18,8 +18,8 @@ Neste curso iremos abordar conhecimento sobre HTML, CSS e JavaScript.
 * [Aula1 - O que é HTML e CSS](https://github.com/gpd38/cursoNutrorHtmlCssJavascriptSemComplicacao/blob/main/codigo/aula1.md)
 * [Aula2 - Principais tags](https://github.com/gpd38/cursoNutrorHtmlCssJavascriptSemComplicacao/blob/main/codigo/aula2.md)
 * [Aula3 - Formulários](https://github.com/gpd38/cursoNutrorHtmlCssJavascriptSemComplicacao/blob/main/codigo/aula3.md)
-* [Aula4 - CSS](https://github.com/gpd38/cursoNutrorHtmlCssJavascriptSemComplicacao/blob/main/codigo/aula4.md)
-* [Aula5 - ](https://github.com/gpd38/cursoNutrorHtmlCssJavascriptSemComplicacao/blob/main/codigo/aula5.md)
+* [Aula4 - Estudando CSS](https://github.com/gpd38/cursoNutrorHtmlCssJavascriptSemComplicacao/blob/main/codigo/aula4.md)
+* [Aula5 - CSS na prática](https://github.com/gpd38/cursoNutrorHtmlCssJavascriptSemComplicacao/blob/main/codigo/aula5.md)
 * [Aula6 - ](https://github.com/gpd38/cursoNutrorHtmlCssJavascriptSemComplicacao/blob/main/codigo/aula6.md)
 
 ### Autor
