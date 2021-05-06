@@ -2,7 +2,7 @@
 
 Daremos início a construção do nosso desafio.
 
-![Desafio HTML com CSS](https://github.com/gpd38/cursoNutrorLogicaDeProgramacao/blob/master/img/adam.png)
+![Desafio HTML com CSS](https://github.com/gpd38/cursoNutrorLogicaDeProgramacao/blob/master/img/desafio.png)
 
 ### Mão na massa
 
