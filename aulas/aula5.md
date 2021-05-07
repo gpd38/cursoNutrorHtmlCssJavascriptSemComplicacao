@@ -1,5 +1,7 @@
 # Aula5
 
+Aqui iremos manipular um pouco de css. Veremos a utilização dentro do próprio arquivo HTML e através de um arquivo externo.
+
 ### Tags do HTML5
 
 	- Header: Tag utilizada para informar que é o cabeçalho da página.
