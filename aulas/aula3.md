@@ -12,8 +12,9 @@
 
 ### Mão na massa
 
+```HTML
 <!DOCTYPE html>
-<html>
+	<html>
 	<head>
 		<title>Chronos Academy</title>
 	</head>
@@ -120,6 +121,7 @@
 		</form>		
 	</body>
 </html>
+```
 
 ### Game
 
