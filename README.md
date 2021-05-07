@@ -10,6 +10,7 @@ Neste curso iremos abordar conhecimento sobre HTML, CSS e JavaScript.
 <p align="center">
 	<a href="#Aulas">Aulas</a> •
 	<a href="#Autor">Autor</a> •
+	<a href="#Certificado">Certificado</a> •
 	<a href="#Licença">Licença</a>
 </p>
 
