@@ -1,0 +1,14 @@
+.centralizaTexto{text-align: center}
+.borda{border: 1px solid #000}
+.centralizaMargem{margin-left: auto; margin-right: auto}
+.largura{max-width: 1200px; min-width: 570px;}
+nav{height: 70px;}
+section{height: 600px}
+footer{height: 80px}
+form{text-align: left; padding-left: 20%}
+p{font-weight: bolder;}
+textarea {
+  resize: none;
+  vertical-align: top;
+  border-radius: 10px;
+}
