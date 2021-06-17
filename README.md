@@ -1,5 +1,6 @@
-# Curso Nutror HTML, CSS e Javascript Sem Complicação
-Neste curso iremos abordar conhecimento sobre HTML, CSS e JavaScript.
+# Curso Nutror HTML e CSS sem Complicação
+
+Neste curso iremos trienar o conhecimento sobre HTML e CSS
 
 <p align="center">
 	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gpd38/cursoNutrorHtmlCssJavascriptSemComplicacao">
@@ -30,14 +31,14 @@ Neste curso iremos abordar conhecimento sobre HTML, CSS e JavaScript.
 	<tr>
 		<td align="center">
 			<a href="https://www.linkedin.com/in/adamviniciusqa/">
-				<img style="border-radius: 50%;" src="https://github.com/gpd38/cursoNutrorLogicaDeProgramacao/blob/master/img/adam.png" width="100px;" alt=""/>
+				<img style="border-radius: 50%;" src="https://github.com/gpd38/cursoNutrorLogicaDeProgramacao/blob/master/img/adam.png" width="100px;" alt="Adam Vinicius Cezar Luchini"/>
 				<br /><b>Instrutor<br>Adam Vinicius Cezar Luchini</b>
 			</a>
 			<br />
 		</td>
 		<td align="center">
 			<a href="https://www.linkedin.com/in/gustavopereiradias">
-				<img style="border-radius: 50%;" src="https://github.com/gpd38/cursoNutrorLogicaDeProgramacao/blob/master/img/gustavo.png" width="100px;" alt=""/>
+				<img style="border-radius: 50%;" src="https://github.com/gpd38/cursoNutrorLogicaDeProgramacao/blob/master/img/gustavo.png" width="100px;" alt="Gustavo Pereira Dias"/>
 				<br /><b>Aluno<br>Gustavo Pereira Dias</b>
 			</a>
 			<br />
