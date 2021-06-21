@@ -10,6 +10,7 @@ Neste curso iremos trienar o conhecimento sobre HTML e CSS
 
 <p align="center">
 	<a href="#Aulas">Aulas</a> •
+	<a href="#Código">Código</a> •
 	<a href="#Autor">Autor</a> •
 	<a href="#Certificado">Certificado</a> •
 	<a href="#Licença">Licença</a>
@@ -24,6 +25,12 @@ Neste curso iremos trienar o conhecimento sobre HTML e CSS
 * [Aula5 - CSS na prática](https://github.com/gpd38/cursoNutrorHtmlCssJavascriptSemComplicacao/blob/main/aulas/aula5.md)
 * [Aula6 - Formulários e estilos](https://github.com/gpd38/cursoNutrorHtmlCssJavascriptSemComplicacao/blob/main/aulas/aula6.md)
 * [Aula7 - Revisão](https://github.com/gpd38/cursoNutrorHtmlCssJavascriptSemComplicacao/blob/main/aulas/aula7.md)
+
+### Código
+
+|Aula|Link de acesso|
+|----|--------------|
+|Todas os códigos|[Link de acesso](https://github.com/gpd38/cursoNutrorHtmlCssSemComplicacao/tree/main/codigo)|
 
 ### Autor
 
